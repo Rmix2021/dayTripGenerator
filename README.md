@@ -1,2 +1,0 @@
-# dayTripGenerator
-day trip devcode
